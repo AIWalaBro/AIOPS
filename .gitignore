@@ -1,0 +1,12 @@
+venv/
+
+__pycache__/
+
+LLMOPS_03.egg-info/
+
+results/
+
+logs/
+
+env/
+
