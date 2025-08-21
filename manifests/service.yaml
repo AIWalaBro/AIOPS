@@ -6,6 +6,6 @@ spec:
   selector:
     app: llmops-app
   ports:
-  - port: 80
-    targetPort: 8501
+    - port: 80
+      targetPort: 8501  # default port for Streamlit
   type: NodePort
